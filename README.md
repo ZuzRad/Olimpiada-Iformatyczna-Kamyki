@@ -12,3 +12,4 @@ zapisuje je w folderze backup.
 
 
 ![schemat](https://user-images.githubusercontent.com/107064508/222980381-d3c9864d-c923-44c8-94ad-70e161ec2988.png)
+
